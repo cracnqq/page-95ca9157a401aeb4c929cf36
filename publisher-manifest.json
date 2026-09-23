@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "592435fe9ce363298e26da8a",
+  "owner": "cracnqq",
+  "repo": "page-95ca9157a401aeb4c929cf36",
+  "title": "飞兔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "95ca9157a401aeb4c929cf36",
+      "a": "飞兔",
+      "b": "稳定全球clash加速器",
+      "entity": "飞兔",
+      "brand": "飞兔",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b32814a7a582c4d19d879e4ac0d27b07ad21e615e9c60f3c16b8a56580fa6ce2",
+      "content": {
+        "primary_entity": "飞兔",
+        "keyword1": "飞兔",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "飞兔订阅可在 Clash 系列客户端中导入，按设备类型选择对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数和月流量挑一档飞兔套餐，导入 Clash 订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，畅连全球",
+          "AI_DESCRIPTION": "，专注为跨区访问、流媒体播放与游戏联机提供网络加速服务，套餐按流量与设备数量分层，基础版 15 元每月含 100GB，旗舰版 35 元每月含 300GB 并支持 5 台设备，团队版 85 元每月含 1000GB 并支持 20 台设备。选择时先确认常用设备数量与月均流量，再对照 Clash 客户端导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度比较，能更快找到合适的飞兔套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版可支持 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 和 1000GB 三档流量，日常浏览选基础，高频播放或下载考虑旗舰以上。",
+          "AI_FEATURE_TEXT_3": "基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_GUIDE_INTRO": "确认设备与流量需求后，选择套餐并完成订阅配置即可开始使用。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "飞兔是为个人与团队提供跨区网络加速的服务品牌，采用 Clash 订阅方式，支持多设备同时在线。套餐按流量和设备数区分，入门可选基础版，多设备或高带宽场景可看旗舰版与团队版。",
+          "AI_HERO_SUBTITLE": "飞兔加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 高带宽",
+          "AI_PLANS_INTRO": "三档套餐分别面向轻量使用、多设备流媒体和团队高带宽场景，价格与权益清晰可对照。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版和团队版之间选定一档，并确认按月或按年付费。",
+          "AI_STEP_TEXT_2": "核对设备系统与 Clash 客户端版本，确认订阅链接和节点信息可以正常导入。",
+          "AI_STEP_TEXT_3": "依照所用 Clash 客户端的文档，把订阅地址粘贴到配置项并更新节点，完成后测试连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞兔加速套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞兔套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "飞兔提供三档套餐，可根据使用情况调整。具体升级方式与计费差异请参照购买页面说明，或联系客户支持确认。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时登录多个账号吗？",
+          "AI_FAQ_ANSWER_2": "飞兔按套餐限制同时在线设备数量，同一订阅在限定设备数内可同时使用，超出数量需升级套餐或调整使用设备。",
+          "AI_FAQ_QUESTION_3": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版含IPLC专线游戏加速优化，适合对延迟敏感的游戏或实时交互场景，同时提供5台设备与300GB月流量。",
+          "AI_FAQ_QUESTION_4": "按年付费比按月付费便宜多少？",
+          "AI_FAQ_ANSWER_4": "以基础版为例，按月15元，按年150元，节省两个月费用。旗舰版年付350元，团队版年付850元，各有优惠。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些定制功能？",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP专属高带宽节点、企业定制路由和专属客户经理服务，适合20台设备以内的团队协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bkpfav.cn",
+    "host": "bkpfav.cn"
+  },
+  "file_hashes": {
+    "index.html": "2df902eb12792f164d7f903006c4218763b72bd317f916557068b797e245acad",
+    "sitemap.xml": "1867bf4ca511c285756342de03a59234abf2d7d0c4825498cbc5fb0d4190ea08",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "716ea2ab85f10bc1cab45dd91061b9de9ab8a7c74c42af309044f76f98c3e894",
+    "robots.txt": "774a68e69430067e737aee051e871d7c9b98473a219ef29016663bc57d03f492",
+    "283336e69c7fc485dd0ec1e8f9c91bd2.txt": "f205d0e1257e94b6700314cb44f6b1010df9c6a0fa466582f967107d1a40baf1"
+  },
+  "revision": "2b88cd0cdeeceb3ccff5f8979bec5b5d706c06448e6c3dfab34c0f7e64c943ac"
+}
